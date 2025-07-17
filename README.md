@@ -172,4 +172,13 @@ This SQL-based data analysis offers KMS valuable insights into operational ineff
 
 
 
+*Click below to access SQL file*
+
+https://drive.google.com/file/d/1R359C361kW5Jcnmff4IabWCGgHoHz_Eh/view?usp=sharing
+
+
+
+
+
+
 
